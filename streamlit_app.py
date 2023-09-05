@@ -1,6 +1,6 @@
 import streamlit
 
-streamlit.title('my mom new healthy diner')
+streamlit.title('my parents new healthy diner')
 
 streamlit.header('Breakfast favorites')
 streamlit.text('🥣omega 3 & bueberry oatmeal')
